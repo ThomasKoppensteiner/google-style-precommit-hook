@@ -6,7 +6,7 @@ Usage:
 ```
 repos:
 - repo: https://github.com/ThomasKoppensteiner/google-style-precommit-hook/
-  sha: <commit>
+  rev: v1.0.0
   hooks:
     - id: google-style-java
 ```
