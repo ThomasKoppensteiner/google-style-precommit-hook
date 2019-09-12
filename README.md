@@ -1,5 +1,5 @@
-A handy [pre-commit](http://pre-commit.com/) hook which will run Google's java
-code style formatter for you on your code!
+A handy [pre-commit](http://pre-commit.com/) hook which will run Google's [java
+code style formatter](https://github.com/google/google-java-format) [v1.7](https://github.com/google/google-java-format/releases/tag/google-java-format-1.7) for you on your code!
 
 Usage:
 
